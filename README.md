@@ -11,22 +11,22 @@
 
 
 
-###**1.Participante😺 **
+### **1.Participante😺 **
 
 ------------
 
 ![](https://avatars.githubusercontent.com/u/86115235?v=4)
 
+------------
 
-
-####♦Nombre y Apellido del participante♦
+#### ♦Nombre y Apellido del participante♦
 
 
 Cristopher Justyn Tigua Vivero
 
 
 ------------
-####♦Nombre de los archivos♦
+#### ♦Nombre de los archivos♦
 * Explicacion de como compilarlo en una maquina local.
 * Explicacion de como descargar el archivo a una maquina local.
 * Explicacion de como ejecutarlo en la maquina local.
@@ -35,7 +35,8 @@ Cristopher Justyn Tigua Vivero
 * README.md
 
 ------------
-##**2.Descripcion📋**
+## **2.Descripcion📋**
+------------
 El primero contiene imagenes de como compilar el programa en una maquina locar es decir un computador, su funcion es guardar el programa.
 La segunda carpeta contiene imagenes de como descarga el programa en un computador su funcion es mostras como realizar estos pasos.
 La tercera carpeta contiene imagenes de como ejecutar el programa en un computador, su funcion es correr el programa
@@ -45,7 +46,7 @@ Por ultimo esta **README.md** contiene toda la informacion del programa, su fina
 El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de una carpeta con el nombre de [flujograma](https://github.com/CrisJ117/Supletorio/tree/main/flujograma "flujograma"), en esta podemos encontrar realiza la estrucura del programa con dada una de sus implementaciones, su funcion principal es describir los procesos, que permiten una mayor organización, evaluación o replanteamiento del programa.
 
 ------------
-##**3. Explicación de como descagar el archivo a un máquina local.**
+## **3.Explicación de como descagar el archivo a un máquina local.**
 **1.** Entrar al repositorio donde se encuentra el ejercicio mediante este  [Link](https://github.com/CrisJ117/Supletorio "Link").
 
 ------------
@@ -76,7 +77,7 @@ El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de
 
 ------------
 
-##**4.-Expliación de como compilarlo💻**
+## **4.-Expliación de como compilarlo💻**
 
 **1.** Descomprimimos el archivo rar que descargamos anteriormente.![](https://github.com/CrisJ117/Supletorio/blob/main/Expliaci%C3%B3n%20de%20como%20compilarlo/1.jpg?raw=true)
 
@@ -112,7 +113,7 @@ El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de
 ![](https://github.com/CrisJ117/Supletorio/blob/main/Explicaci%C3%B3n%20de%20como%20ejecutarlo%20en%20la%20m%C3%A1quina%20local/2.jpg?raw=true)
 
 ------------
-##**Licencia📑**
+## **Licencia📑**
 ![](https://png.pngtree.com/png-vector/20190228/ourlarge/pngtree-copyright-icon-design-template-vector-isolated-png-image_711440.jpg)
 El contenido está disponible bajo **UNIVERSIDAD LUIS VARGAS TORRES** a menos que se indique lo contrario.
 
