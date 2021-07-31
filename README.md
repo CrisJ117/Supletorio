@@ -11,7 +11,7 @@
 
 
 
-### **1.Participante😺 **
+### **1.Participante😺**
 
 ------------
 
@@ -77,7 +77,7 @@ El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de
 
 ------------
 
-## **4.-Expliación de como compilarlo💻**
+## **4.Expliación de como compilarlo💻**
 
 **1.** Descomprimimos el archivo rar que descargamos anteriormente.![](https://github.com/CrisJ117/Supletorio/blob/main/Expliaci%C3%B3n%20de%20como%20compilarlo/1.jpg?raw=true)
 
@@ -104,7 +104,7 @@ El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de
 
 ------------
 
-##**5. Explicación de como ejecutarlo en la máquina local.**
+##** 5.Explicación de como ejecutarlo en la máquina local.**
 
 **1.** Ya dentro del programa presionamos (***Run***) o la tecla (***F10***) para ejecutarlo. ![](https://github.com/CrisJ117/Supletorio/blob/main/Explicaci%C3%B3n%20de%20como%20ejecutarlo%20en%20la%20m%C3%A1quina%20local/1.jpg?raw=true)
 
