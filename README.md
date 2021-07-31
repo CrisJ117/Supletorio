@@ -40,13 +40,13 @@ Cristopher Justyn Tigua Vivero
 El primero contiene imagenes de como compilar el programa en una maquina locar es decir un computador, su funcion es guardar el programa.
 La segunda carpeta contiene imagenes de como descarga el programa en un computador su funcion es mostras como realizar estos pasos.
 La tercera carpeta contiene imagenes de como ejecutar el programa en un computador, su funcion es correr el programa
-Los archivos subidos son los siguiente, el cuarto se lo encuentra con el nombre de **Facturacion1.cpp** , en el encontraremos las funciones `<system("cls") >` usada para realizar operación o sub proceso y  `<system("pause") >`está incorpora una pausa en el programa, es decir, que se espera a que el usuario presione alguna tecla para continuar con la ejecución del mismo. Para mas informacion sobre esta funcion pulse [Aqui](https://es.wikipedia.org/wiki/System_(stdlib). La finalidad de este programa es realizar una lista de los aritculos abquiridos en una compra.
+Los archivos subidos son los siguiente, el cuarto se lo encuentra con el nombre de **Facturacion1.cpp** , en el encontraremos las funciones `<system("cls") >` usada para realizar operación o sub proceso y  `<system("pause") >`está incorpora una pausa en el programa, es decir, que se espera a que el usuario presione alguna tecla para continuar con la ejecución del mismo. Para mas informacion sobre esta funcion pulse [Aqui](https://es.wikipedia.org/wiki/System_(Aqui). La finalidad de este programa es realizar una lista de los aritculos abquiridos en una compra.
 Por ultimo esta **README.md** contiene toda la informacion del programa, su finalidad es dar a conocer lo que contiene el respositorio al publico.
 
 El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de una carpeta con el nombre de [flujograma](https://github.com/CrisJ117/Supletorio/tree/main/flujograma "flujograma"), en esta podemos encontrar realiza la estrucura del programa con dada una de sus implementaciones, su funcion principal es describir los procesos, que permiten una mayor organización, evaluación o replanteamiento del programa.
 
 ------------
-## **3.Explicación de como descargar el archivo a un máquina local.**
+## **3.Explicación de como descargar el archivo a una máquina local.**
 **1.** Entrar al repositorio donde se encuentra el ejercicio mediante este  [Link](https://github.com/CrisJ117/Supletorio "Link").
 
 ------------
@@ -104,7 +104,7 @@ El siguiente documento llamado **Diagrama en blanco.jpeg** se encuentra dento de
 
 ------------
 
-## ** 5.Explicación de como ejecutarlo en la máquina local.**
+## **5.Explicación de como ejecutarlo en la máquina local.**
 
 **1.** Ya dentro del programa presionamos (***Run***) o la tecla (***F10***) para ejecutarlo. ![](https://github.com/CrisJ117/Supletorio/blob/main/Explicaci%C3%B3n%20de%20como%20ejecutarlo%20en%20la%20m%C3%A1quina%20local/1.jpg?raw=true)
 
